@@ -8,7 +8,7 @@
 
 ### Hi there, my name is Raz Ben-Aharon 👋
 
-<!--
+
 **raz228822/raz228822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
@@ -50,4 +50,4 @@
 
 ### :fire: My Stats :
 
--->
+<!--
