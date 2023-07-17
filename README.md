@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
-
-<h1>
-  Hey there , my name is Raz Ben-Aharon
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+  <h1>
+    Hey there, my name is Raz Ben-Aharon
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 ## :raising_hand_man: About Me :
@@ -14,7 +12,6 @@
 - :zap: A highly motivated and diligent individual with very good creative thinking, problem solving and teamwork skills.
 - :email: How to reach me: raz228822@gmail.com
 
----
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -33,7 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
---- 
 
 ##  :call_me_hand: Connect with me :
 <div>
@@ -41,7 +37,6 @@
   <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ## :fire: My Stats :
 
