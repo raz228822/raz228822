@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
-</div>
+
 
 ### Hi there, my name is Raz Ben-Aharon 👋
-
+</div>
 ---
 
 ### :raising_hand_man: About Me :
