@@ -6,9 +6,11 @@
 </h1>
 </div>
 
-<h2 align="center">
-  Looking for a challenging software development student position
-</h2>
+<div>
+  <h2 align="center">
+    Looking for a challenging software development student position
+  </h2>
+</div>
 
 ## :raising_hand_man: About Me :
 - :mortar_board: A 3rd year student in the department of Software Engineering at Braude College.
