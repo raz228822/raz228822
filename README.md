@@ -1,10 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
-</div>
-
-<h1>
+  <h1>
     Hey there, my name is Raz Ben-Aharon
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+<h1 align="center>
+  Looking for a challenging software development student position.
 </h1>
 
 ## :raising_hand_man: About Me :
