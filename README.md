@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-<h1 align="center>
+<h1 align="center">
   Looking for a challenging software development student position.
 </h1>
 
