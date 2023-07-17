@@ -6,13 +6,12 @@
 </h1>
 </div>
 
-<h1 align="center">
-  Looking for a challenging software development student position.
-</h1>
+<h2 align="center">
+  Looking for a challenging software development student position
+</h2>
 
 ## :raising_hand_man: About Me :
 - :mortar_board: A 3rd year student in the department of Software Engineering at Braude College.
-- :seedling: Looking for a challenging software development student position.
 - :zap: A highly motivated and diligent individual with very good creative thinking, problem solving and teamwork skills.
 - :email: How to reach me: raz228822@gmail.com
 
