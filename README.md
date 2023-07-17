@@ -3,12 +3,12 @@
   <h1>
     Hey there, my name is Raz Ben-Aharon
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 </div>
 
 <div>
   <h2 align="center">
-    Looking for a challenging software development student position
+    Looking for a challenging software development student position 
   </h2>
 </div>
 
