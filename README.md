@@ -1,9 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
 
 ### Hi there, my name is Raz Ben-Aharon 👋
@@ -14,7 +10,7 @@
 - :mortar_board: A 3rd year student in the department of Software Engineering at Braude College.
 - :seedling: Looking for a challenging software development student position.
 - :zap: A highly motivated and diligent individual with very good creative thinking, problem solving and teamwork skills.
-- :e-mail::email: How to reach me: raz228822@gmail.com
+- :email: How to reach me: raz228822@gmail.com
 
 ---
 
