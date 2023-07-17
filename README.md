@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 
-
-### Hi there, my name is Raz Ben-Aharon 👋
+###### Hi there, my name is Raz Ben-Aharon 👋
 </div>
----
+
 
 ### :raising_hand_man: About Me :
 - :mortar_board: A 3rd year student in the department of Software Engineering at Braude College.
