@@ -36,7 +36,7 @@
 ##  :call_me_hand: Connect with me :
 <div>
   <a href="https://www.linkedin.com/in/raz-ben-aharon-036180234/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </div>
 
 
