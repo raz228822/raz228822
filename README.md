@@ -8,12 +8,12 @@
 
 <div>
   <h2 align="center">
-    Looking for a challenging software development student position
+    Looking for a Front End/Full Stack position
   </h2>
 </div>
 
 ## :raising_hand_man: About Me :
-- :mortar_board: A 4th year student in the department of Software Engineering at Braude College.
+- :mortar_board:  B.Sc. in Software Engineering from Braude College.
 - :zap: A highly motivated and diligent individual with very good creative thinking, problem solving and teamwork skills.
 - :email: How to reach me: raz228822@gmail.com
 
